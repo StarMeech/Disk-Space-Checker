@@ -18,5 +18,5 @@ this while still trying to learn EndevourOS.
 
 ## Example output
 ```
-Disk usage OK: 12% usaed (threshold: 80%)
+Disk usage OK: 12% usage (threshold: 80%)
 ```
